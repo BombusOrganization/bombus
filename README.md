@@ -3,7 +3,7 @@ Bombus is a cloud-based, scalable index of individuals, specimens, tissues, and 
 
 Codebase will be posted on Github soon.  Our kick-off, officially begins with the August 14th VertNet/BiSciCol hackathon in Berkeley, California.
 
-![]http://blog.audubonguides.com/files/2012/06/Bombus-borealis-Red-Clover-Trifolium-pratense11.jpg
+![](http://blog.audubonguides.com/files/2012/06/Bombus-borealis-Red-Clover-Trifolium-pratense11.jpg)
 
 The genus Bombus contains the Bumblebees. Bumbling along, with a wobbly flight, these bees are nevertheless effective pollinators.  Likewise, Bombus, our project, links objects and their derivatives as the Bumblebee connects flowers and pollen.  Quoting from Charles Darwin on "Humble-Bees" (an earlier word for Bumblebees): 
 
